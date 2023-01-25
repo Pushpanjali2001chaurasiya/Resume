@@ -1,0 +1,177 @@
+#upperbody{
+    background-color:  rgb(144 130 177 / 59%);
+   height:1036px;
+   width: 800px;
+   border: 2px solid rgb(105, 130, 160);
+margin: 20px 290px;
+}
+.upper>img{
+    height: 160px;
+    width: 160px;
+    display: block;
+    padding-left: 180px;
+    position: relative;top: 20px;
+    /* border-radius: 60%; */
+    position: relative;right: 100px;
+}
+.upper{
+    /* border: 2px solid red; */
+    height: 19%;
+    /* background-color: antiquewhite; */
+}
+.details img{ height: 20px;
+    width: 20px;
+    margin: 1px 0px;
+    
+   
+
+}
+.details{
+    position: absolute;left:654px;top:86px;
+  
+}
+.details li{
+    list-style: none;
+}
+.upper h1{
+    text-align: center;
+    position: relative;left: 136px; bottom:150px;
+    font-size: 1.8em;
+    
+}
+.upper p{text-align: center;
+    position: relative;left: 87px; bottom:172px;
+    /* font-weight: bold; */
+    font-size: 20px;
+   
+}
+
+
+/* lower body */
+.line{
+    border: 2px solid black;
+    height:820px;
+    width: 0px;
+position: relative;left: 300px ; top:1px;
+}
+.lower-body ul li{
+    position: relative;bottom: 44px; right: 18px;
+    font-size: 35px;
+  
+}
+#lower{
+    background-color: aliceblue;
+    height: 81%;
+}
+
+/* content */
+.content{
+    text-align: center;
+    position: relative;bottom: 453px;left:320px;
+    /* border: 2px solid white; */
+    width: 400px;
+    text-align: justify;
+    
+}
+/* .content p{
+    text-align: justify;
+} */
+
+
+.content p{
+    /* position: relative;left:120px */
+}
+.left-content{
+    
+    /* position:relative;left:700px;bottom: 1060px; */
+}
+.left-content p{
+    position: relative;left:20px;
+}
+.cover{
+    position: relative;bottom: 45px; left: 100px;
+}
+.cover+p{
+    position: relative;bottom: 60px;left:102px
+}
+#start
+{position: relative;bottom: 65px;
+
+}
+#end{
+    position: relative;bottom: 135px;
+}
+.high-content{
+    position: relative;bottom: 309px;
+    text-align: unset;
+}
+.cover {
+    /* position: relative;bottom: 80px; */
+}
+.remain{
+    position: relative;bottom: 210px;
+}
+.lower-body{
+    background-color: aliceblue;
+    position: relative;top: 14px;
+    height: 90%;
+}
+
+.left-content{
+    text-align: end;
+    position: relative;bottom:812px;right: 20px;
+  
+    height: 500px;
+    width: 280px;
+    /* background-color: rgba(14, 14, 100, 0.788); */
+}
+.label input{
+
+}
+.tech{
+    position:relative;bottom:133px;
+    margin: 0px;
+    padding: 0%;
+}
+#abhi{
+    position:relative;bottom:55px
+}
+#abhinhi{
+    position:relative;bottom:109px
+}
+#bad{
+    position:relative;bottom:167px
+
+}
+#chutiya{
+    position:relative;bottom:237px
+}
+.remain{
+    position:relative;bottom:387px;
+    display: flex;
+    
+}
+.remain li{
+    display: flex;
+    display: inline;
+}
+.ground{
+    position:relative;bottom:387px;
+    left: 400px;
+    display: block;
+}
+.ground img{
+    display: block;
+    margin: 30px;
+}
+.pagal{
+border: 2px solid black;
+width: 42.4%;
+
+position: relative;bottom: 386px;left: 290px;
+padding: 10px;
+background-color: aliceblue;
+}
+#technow{
+    position: relative;bottom: 250px;
+}
